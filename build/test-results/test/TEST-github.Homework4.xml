@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="github.Homework4" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-16T16:58:55" hostname="NIKOLAY" time="9.709">
+  <properties/>
+  <testcase name="tryingToUseActions()" classname="github.Homework4" time="9.709"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+сент. 16, 2024 7:58:58 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 128, returning the closest version; found: 125; Please update to a Selenium version that supports CDP version 128
+]]></system-err>
+</testsuite>
